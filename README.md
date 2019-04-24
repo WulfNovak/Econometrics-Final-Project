@@ -1,4 +1,4 @@
-# Econometrics-Final-Project
+# Econometrics-Final-Project-Code-Only
 Econometric analysis of Education's effect on employment status.
 Control variables such as Age, Sex, Marital Status, School, and State are included.
 
